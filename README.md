@@ -1,4 +1,4 @@
-# Pandas assigment
+# Pandas assignment
 
 # PyCitySchools
 
