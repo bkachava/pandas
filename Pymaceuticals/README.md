@@ -7,7 +7,7 @@ Their physiological responses were then monitored over the course of that time.
 
 ## Results
 
-![result](Pymaceuticals/Images/trends.png)
+![result](Images/trends.png)
 
 ![top](Pymaceuticals/Images/TumorResponse.png)
 
