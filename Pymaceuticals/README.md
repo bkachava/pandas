@@ -9,10 +9,10 @@ Their physiological responses were then monitored over the course of that time.
 
 ![result](Images/trends.png)
 
-![top](Pymaceuticals/Images/TumorResponse.png)
+![tumor](Images/TumorResponse.png)
 
-![scores](Pymaceuticals/Images/MetatasticSpread.png)
+![spread](Images/MetatasticSpread.png)
 
-![scores](Pymaceuticals/Images/SurvivalRate.png)
+![rate](Images/SurvivalRate.png)
 
-![scores](Pymaceuticals/Images/TumorChange.png)
+![change](Images/TumorChange.png)
