@@ -6,8 +6,8 @@ Analyze the district-wide standardized test results, aggregate the data and show
 
 ## Results
 
-![result](PyCitySchools/Resources/result.png)
+![result](Resources/result.png)
 
-![top](PyCitySchools/Resources/top.png)
+![top](Resources/top.png)
 
-![scores](PyCitySchools/Resources/scores.png)
+![scores](Resources/scores.png)
