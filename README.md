@@ -7,7 +7,7 @@ Apply the skills learned so far to some real-world situations.
 
 Use the Pandas library and Jupyter Notebook for helping a School Board and Mayor to make strategic decisions
 regarding future school budgets and priorities, an analysis to the district-wide standardized test results was made. 
-Also, data was aggregated to show trends in school performance.
+Also, data was aggregated to show [trends](PyCitySchools) in school performance.
 
 
 The [final report](PyCitySchools/Scripts/PyCitySchools.ipynb) includes:
