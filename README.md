@@ -57,7 +57,7 @@ The analysis, to show how four treatments (Capomulin, Infubinol, Ketapril, and P
  - A bar graph that compares the total % tumor volume change for each drug across the full 45 days. The 
  tumor growth is indicated as color red and the tumor reduction as color green
 
-A written description of the observable trends based on the data, can be found [here](Pymaceuticals).
+A written description of the observable trends based on the data can be found [here](Pymaceuticals).
 
 Also, the scatter plots include error bars, allowing the company to account for variability between mice. 
 See the [Jupyter Notebook](Pymaceuticals/pymaceuticals.ipynb).
@@ -68,9 +68,9 @@ See the [Jupyter Notebook](Pymaceuticals/pymaceuticals.ipynb).
 Jupyter Notebooks, Pandas and Matplotlib libraries, Python requests, APIs, and JSON traversals were used to 
 answer a fundamental question: `What's the weather like as we approach the equator?`.
 
-A [script](PyWeather/WeatherPy.ipynb) to visualize the weather of 500+ cities across the world, of varying 
-distance from the equator was created, based on random coordinates, and a weather check on each of the cities, 
-using successive calls to OpenWeatherMap API, was performed.
+A script to visualize the weather of 500+ cities across the world, of varying distance from the equator 
+was created, based on random coordinates, and a weather check on each of the cities, using successive calls 
+to OpenWeatherMap API, was performed.
 
 [Scatter plots](PyWeather/Output_data) were built to show the following relationships:
  - Temperature (F) vs. Latitude
@@ -78,5 +78,5 @@ using successive calls to OpenWeatherMap API, was performed.
  - Cloudiness (%) vs. Latitude
  - Wind Speed (mph) vs. Latitude
 
-See the observable [trends](PyWeather/WeatherPy.ipynb) based on the data and the resulting 
-[csv](PyWeather/Output_data/cities.csv) of all data retrieved.
+See the observable [trends](PyWeather/WeatherPy.ipynb) and the resulting [csv](PyWeather/Output_data/cities.csv) 
+of all data retrieved.
