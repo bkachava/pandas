@@ -1,6 +1,6 @@
 # Python, Pandas, Jupyter Notebooks, Matplotlib and APIs Assignments
 
-Apply the skills learned so far to some real-world situations.
+Applying the skills learned so far to some real-world situations.
  
  
 ## PyCitySchools
