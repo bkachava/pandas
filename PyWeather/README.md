@@ -1,6 +1,4 @@
-# APIs assignment
-
-# PyWeather
+# PyWeather - APIs Assignment
 
 This is a Python script to visualize the weather of 500+ cities across the world of varying distance 
 from the equator. The scripts uses a Python library (https://pypi.python.org/pypi/citipy) and the 
