@@ -5,7 +5,7 @@ Apply the skills learned so far to some real-world situations.
  
 ## PyCitySchools
 
-Use the Pandas library and Jupyter Notebook for helping a School Board and Mayor to make strategic decisions
+Pandas library and Jupyter Notebooks were used for helping a School Board and Mayor to make strategic decisions
 regarding future school budgets and priorities, an analysis to the district-wide standardized test results was made. 
 Also, data was aggregated to show [trends](PyCitySchools) in school performance.
 
@@ -41,3 +41,42 @@ on Overall Passing Rate, including all of the same metrics as above.
 (Small, Medium, Large).
 
 - Scores by School Type. Same as above, but group schools are based on school type (Charter vs. District).
+
+
+## Pymaceuticals
+
+Python, Jupyter Notebooks, Pandas and Matplotlib libraries were used to analyze data from an animal study made by 
+a company that specializes in drug-based, anti-cancer pharmaceuticals. In this study, 250 mice were treated
+through a variety of drug regimes over the course of 45 days and their physiological responses were monitored.
+
+The analysis, to show how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare, includes:
+ - A scatter plot that shows how the tumor volume changes over time for each treatment
+ - A scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for
+ each treatment
+ - A scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
+ - A bar graph that compares the total % tumor volume change for each drug across the full 45 days. The 
+ tumor growth is indicated as color red and the tumor reduction as color green
+
+A written description of the observable trends based on the data, can be found [here](Pymaceuticals).
+
+Also, the scatter plots include error bars, allowing the company to account for variability between mice. 
+See the [Jupyter Notebook](Pymaceuticals/pymaceuticals.ipynb).
+
+
+## PyWeather
+
+Jupyter Notebooks, Pandas and Matplotlib libraries, Python requests, APIs, and JSON traversals were used to 
+answer a fundamental question: `What's the weather like as we approach the equator?`.
+
+A [script](PyWeather/WeatherPy.ipynb) to visualize the weather of 500+ cities across the world, of varying 
+distance from the equator was created, based on random coordinates, and a weather check on each of the cities, 
+using successive calls to OpenWeatherMap API, was performed.
+
+[Scatter plots](PyWeather/Output_data) were built to show the following relationships:
+ - Temperature (F) vs. Latitude
+ - Humidity (%) vs. Latitude
+ - Cloudiness (%) vs. Latitude
+ - Wind Speed (mph) vs. Latitude
+
+See the observable [trends](PyWeather/WeatherPy.ipynb) based on the data and the resulting 
+[csv](PyWeather/Output_data/cities.csv) of all data retrieved.
